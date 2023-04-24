@@ -3,22 +3,26 @@
       {
           "company_name": "Agivu",
           "industry": "Software Development",
-          "product_name": "HR Software"
+          "product_name": "HR Software",
+          "route":"/client/client-home"
       },
       {
           "company_name": "Shufflester",
           "industry": "Data Analytics",
-          "product_name": "HR Software"
+          "product_name": "HR Software",
+          "route":"/subscription/subscription-dashboard"
       },
       {
           "company_name": "Avamba",
           "industry": "IT Services",
-          "product_name": "CRM Software"
+          "product_name": "CRM Software",
+          "route":"/subscription/Management"
       },
       {
           "company_name": "Skimia",
           "industry": "Data Analytics",
-          "product_name": "Marketing Automation Software"
+          "product_name": "Marketing Automation Software",
+          "route":"/user/user-dashboard"
       },
       {
           "company_name": "Wikizz",
